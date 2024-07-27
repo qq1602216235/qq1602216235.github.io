@@ -135,7 +135,7 @@ params:
       url: "index.xml"
 
   label: # 左上角图标
-    text: "Sulv's Blog"
+    text: "QinFQ's Blog"
     icon: "img/Q.gif"
     iconHeight: 35
 
